@@ -59,7 +59,7 @@ This project is licensed under the MIT License.
 
 The design layout for this project is available in Figma. You can view it here:
 
-- **Figma URL**: [Tours Project Design on Figma](https://www.figma.com/design/JRDDc3aN6uiBS3yvjbkk0s/Lorem-ipsum?node-id=0-1&node-type=canvas&t=s7vYdYzY2XMHEYkq-0)
+- **Figma URL**: [Lorem Ipsum Generator Project Design on Figma](https://www.figma.com/design/JRDDc3aN6uiBS3yvjbkk0s/Lorem-ipsum?node-id=0-1&node-type=canvas&t=s7vYdYzY2XMHEYkq-0)
 
 ## Contributing
 
