@@ -73,7 +73,7 @@ This project is licensed under the MIT License.
 
 The design layout for this project is available in Figma. You can view it here:
 
-- **Figma URL**: [Tours Project Design on Figma](https://www.figma.com/design/OnLoM3AzBFaHzSc2iolJS0/Tours?node-id=4-2&node-type=frame&t=9ICnPDuwhb2nAazc-0)
+- **Figma URL**: [Color Generator Project Design on Figma](https://www.figma.com/design/OnLoM3AzBFaHzSc2iolJS0/Tours?node-id=4-2&node-type=frame&t=9ICnPDuwhb2nAazc-0)
 
 ## Contributing
 
