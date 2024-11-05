@@ -65,6 +65,3 @@ The design layout for this project is available in Figma. You can view it here:
 
 Contributions are welcome! Please feel free to submit a pull request or report issues.
 
-## Contact
-
-For any questions or feedback, reach out at [your-email@example.com].
