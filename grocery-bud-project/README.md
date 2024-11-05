@@ -72,7 +72,7 @@ This project is licensed under the MIT License.
 
 The design layout for this project is available in Figma. You can view it here:
 
-- **Figma URL**: [Tours Project Design on Figma](https://www.figma.com/design/8rXGl68NoEmAhHpcV7aB5o/Grocery-bud?node-id=0-1&node-type=canvas&t=z5TwgF0OaWsMR1G1-0)
+- **Figma URL**: [Grocery Bud Project Design on Figma](https://www.figma.com/design/8rXGl68NoEmAhHpcV7aB5o/Grocery-bud?node-id=0-1&node-type=canvas&t=z5TwgF0OaWsMR1G1-0)
 
 ## Contributing
 
