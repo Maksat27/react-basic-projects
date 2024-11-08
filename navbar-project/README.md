@@ -11,13 +11,13 @@ This project is a responsive navigation bar built using React. The navigation ba
 
 ## Project Structure
 
-````plaintext
-src
-├── App.js             # Main App component
-├── Navbar.js          # Navbar component
-├── data.js            # Links and social data
-├── logo.svg           # Logo for navbar
-└── index.css          # CSS for styling
+        ````plaintext
+        src
+        ├── App.js             # Main App component
+        ├── Navbar.js          # Navbar component
+        ├── data.js            # Links and social data
+        ├── logo.svg           # Logo for navbar
+        └── index.css          # CSS for styling
 
 
 ## Installation
@@ -69,4 +69,3 @@ You can view the Figma design of this project here:
 ## License
 
 This project is open-source and available under the MIT License.
-````
