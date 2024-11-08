@@ -25,7 +25,7 @@ This project is a responsive navigation bar built using React. The navigation ba
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/navbar-project.git
+    git clone <project url>
     ```
 
 2. Navigate to the project directory:
